@@ -1,0 +1,37 @@
+1.  Write an assert statement that triggers an AssertionError if the variable spam is an integer less than 10.
+    assert spam => 10
+
+ 2.  Write an assert statement that triggers an AssertionError if the variables eggs and bacon contain strings that are the same as each other, even if their cases are different. (That is, 'hello' and 'hello' are considered the same, as are 'goodbye' and 'GOODbye'.)
+    assert eggs.lower() != bacon.lower()
+
+  3.  Write an assert statement that always triggers an AssertionError.
+    assert 1 < 0 
+
+  4.  What two lines must your program have to be able to call logging.debug()?
+    import logging and logging.basicConfig()
+
+  5.  What two lines must your program have to make logging.debug() send a logging message to a file named programLog.txt?
+        import logging and logging.basicConfig(filename= 'programLog.txt',)
+
+  6.  What are the five logging levels?
+    debug,info,warning,error,critical
+
+  7.  What line of code can you add to disable all logging messages in your program?
+    logging.disable()
+  8.  Why is using logging messages better than using print() to display the same message?
+    cuz you can deactivate it without modifying your program, only with one line of code and also reactivate it deleting that one life if it is required again * with complex problmes it will be very hard to follow which print line is for production and whihc print line is for debugging 
+
+  9.  What are the differences between the Step Over, Step In, and Step Out buttons in the debugger?
+    Step Over: Executes the current line of code. If the current line is a function call, it executes the entire function without stepping into it, and then stops at the next line after the function call.
+
+    Step In: Executes the current line of code. If the current line is a function call, it steps into that function, stopping at the first line of code inside the function.
+
+    Step Out: If you are currently inside a function, it executes the rest of the current function and then stops at the line immediately after the function call in the calling code.
+
+10.  After you click Continue, when will the debugger stop?
+     he debugger will stop at the next breakpoint it encounters, or at the end of the program's execution if no further breakpoints are hit.
+
+11.  What is a breakpoint?
+    - pointer for the debugger to inspect 
+12.  How do you set a breakpoint on a line of code in Mu?
+
