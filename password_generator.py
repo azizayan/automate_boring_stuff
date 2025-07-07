@@ -1,7 +1,8 @@
 import random, string
 
 def generate_password(length):
-    char_list=""
+    char_list=[]
+    password_list = []
     
     print('there will be lowercase letters in your password, lets pick what you want additionally')
     upper_case_check = input('Do you want uppercase chars(enter y for yes and n for no): ')
@@ -13,22 +14,36 @@ def generate_password(length):
     digits = string.digits                   # '0123456789'
     symbols = string.punctuation             # '!"#$%&\'()*+,-./:;<=>?@[\\]^_`{|}~'
 
-    while len(char_list) != length:
-        char_list += (lowercase_letters[random.randint(0,len(lowercase_letters)-1)])
+    if length > 0:
+        char_list = lowercase_letters
+
+        password_list.append(random.choice(lowercase_letters))
+
         
         if upper_case_check =='y':
-            char_list +=(uppercase_letters[random.randint(0,len(uppercase_letters)-1)])
+                    char_list += uppercase_letters
+                    password_list.append(random.choice(uppercase_letters))
         if digit_check =='y':
-            char_list += (digits[random.randint(0,len(digits)-1)])
+                    char_list += digits
+                    password_list.append(random.choice(digits))
         if special_char_check =='y':
-            char_list += (symbols[random.randint(0,len(symbols)-1)])
+                    char_list += symbols
+                    password_list.append(random.choice(symbols))
+            
+
+        remaining_length = length - len(password_list)+1
+        if remaining_length <= 0:
+            print('Your password length is not sufficient for your requests. Program will autogenerate yopu password ')
+        else:
+            for i in range(remaining_length):
+                password_list.append(random.choice(char_list))
+            
         
-    temp_list = list(char_list)
 
-    random.shuffle(temp_list)
+        random.shuffle(password_list)
 
-    password = "".join(temp_list)
-    
+        password = "".join(password_list)
+        
 
 
     return password
