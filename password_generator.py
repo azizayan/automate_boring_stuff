@@ -14,39 +14,48 @@ def generate_password(length):
     digits = string.digits                   # '0123456789'
     symbols = string.punctuation             # '!"#$%&\'()*+,-./:;<=>?@[\\]^_`{|}~'
 
-    if length > 0:
-        char_list = lowercase_letters
+    try:
+        if length > 0:
+            char_list = lowercase_letters
 
-        password_list.append(random.choice(lowercase_letters))
+            password_list.append(random.choice(lowercase_letters))
 
-        
-        if upper_case_check =='y':
-                    char_list += uppercase_letters
-                    password_list.append(random.choice(uppercase_letters))
-        if digit_check =='y':
-                    char_list += digits
-                    password_list.append(random.choice(digits))
-        if special_char_check =='y':
-                    char_list += symbols
-                    password_list.append(random.choice(symbols))
             
+            if upper_case_check =='y':
+                        if len(password_list) == length:
+                            random.shuffle(password_list)
+                            password = "".join(password_list)
+                            return password
+                        char_list += uppercase_letters
+                        password_list.append(random.choice(uppercase_letters))
+            if digit_check =='y':
+                        if len(password_list) == length:
+                            random.shuffle(password_list)
+                            password = "".join(password_list)
+                            return password
+                        char_list += digits
+                        password_list.append(random.choice(digits))
+            if special_char_check =='y':
+                        if len(password_list) == length:
+                            random.shuffle(password_list)
+                            password = "".join(password_list)
+                            return password
+                        char_list += symbols
+                        password_list.append(random.choice(symbols))
+                
 
-        remaining_length = length - len(password_list)+1
-        if remaining_length <= 0:
-            print('Your password length is not sufficient for your requests. Program will autogenerate yopu password ')
-        else:
+            remaining_length = length - len(password_list)-1
             for i in range(remaining_length):
                 password_list.append(random.choice(char_list))
-            
-        
+                
+            random.shuffle(password_list)
 
-        random.shuffle(password_list)
+            password = "".join(password_list)
 
-        password = "".join(password_list)
-        
-
-
-    return password
+        return password
+    except  IndexError:
+          print('Your password length is not sufficient for your requests. Program will autogenerate yopu password ')
+          
     
 
     
