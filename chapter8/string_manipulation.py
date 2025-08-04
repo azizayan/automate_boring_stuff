@@ -89,4 +89,4 @@ pyperclip.copy('aaaaa')
 
 text = pyperclip.paste()
 
-print(text)
+print(text.rjust(10))
