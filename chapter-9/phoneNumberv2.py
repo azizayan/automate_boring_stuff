@@ -45,3 +45,6 @@ print(newline_match.group())
 
 agent_pattern = re.compile(r'Agent \w+')
 print(agent_pattern.sub('CENSORED', 'Agent Alice contacted Agent Bob'))
+
+agent_pattern = re.compile(r'Agent (\w)\w*')
+print(agent_pattern.sub(r'\1****', 'Agent Alice contacted Agent Bob.'))

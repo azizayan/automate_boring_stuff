@@ -1,0 +1,40 @@
+ 1.  What is the function that returns Regex objects?
+    re.compile
+
+  2.  Why are raw strings often used when creating Regex objects?
+        cause it include so much type of char?
+  3.  What does the search() method return?
+        if there is a match for searced regex 
+  4.  How do you get the actual strings that match the pattern from a Match object?
+        match.group(1)
+  5.  In the regex created from r'(\d\d\d)-(\d\d\d-\d\d\d\d)', what does group 0 cover? Group 1? Group 2?
+        0-> all matched 1-> first paranthsized group 2-> second group
+  6.  Parentheses and periods have specific meanings in regular expression syntax. How would you specify that you want a regex to match actual parentheses and period characters?
+        by using \ 
+  7.  The findall() method returns a list of strings or a list of tuples of strings. What makes it return one or the other?
+        searched regex?
+        It returns a list of strings if the regex has no groups. It returns a list of tuples of strings if the regex has one or more groups.
+  8.  What does the | character signify in regular expressions?
+            or 
+  9.  What two things does the ? character signify in regular expressions?
+        stating that this part of regex is optional, makes the quantifier non-greedy
+10.  What is the difference between the + and * characters in regular expressions?
+        if it is + we are looking for a + b if it is a + b* we can expect 0 or more  b objects
+11.  What is the difference between {3} and {3,5} in regular expressions?
+        3 -> match 3 times  3,5 ->  match between 3 and 5 times
+12.  What do the \d, \w, and \s shorthand character classes signify in regular expressions?
+         digit, word s-> white space
+13.  What do the \D, \W, and \S shorthand character classes signify in regular expressions?
+    non-digit, non-word, non-whitespace
+14.  What is the difference between the .* and .*? regular expressions?
+    .* is greedy and matches the longest possible string, .*? is non-greedy and mathces the shortes
+15.  What is the character class syntax to match all numbers and lowercase letters?
+        [a-z0-9]
+16.  How do you make a regular expression case-insensitive?
+        re.IGNORECASE in re.compile
+17.  What does the . character normally match? What does it match if re.DOTALL is passed as the second argument to re.compile()?
+empty space
+18.  If num_re = re.compile(r'\d+'), what will num_re.sub('X', '12 drummers, 11 pipers, five rings, 3 hens') return?
+X drummers, X pipers, five rings, X hens
+19.  What does passing re.VERBOSE as the second argument to re.compile() allow you to do?
+    to state regex in multiplone with comments option
