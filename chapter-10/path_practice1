@@ -1,0 +1,47 @@
+from pathlib import Path
+import os,time
+
+
+
+
+print(Path('spam','bacon','eggs'))
+print(str(Path('spam','bacon','eggs')))
+
+
+
+
+print(Path('bilkent')/Path('student clubs','bais'))
+
+
+print(Path.cwd())
+print(Path.home())
+#os.makedirs('Users/azizemreayan/Desktop/automate_boring_stuff/first_manual/first_file')
+
+
+print(Path.cwd().is_absolute())
+
+print(Path('my/realative/path'))
+print(Path.cwd() / Path('my/relative/path'))
+print(Path('my/relative/path').absolute())
+
+p = Path('Users/AI/first.txt')
+
+print(p.anchor)
+print(p.parent)
+print(p.name)
+print(p.stem)
+print(p.suffix)
+
+
+print(p.parts[0:2])
+
+ex_file = Path('/Users/azizemreayan/Desktop/automate_boring_stuff/mylogfile.txt')
+print(ex_file.stat())
+print(ex_file.stat().st_size)
+print(ex_file.stat().st_mtime)
+
+print(time.asctime(time.localtime(ex_file.stat().st_ctime)))
+
+
+actual_p = Path('Users/azizemreayan/Desktop/')
+print(list(actual_p.glob('*')))
