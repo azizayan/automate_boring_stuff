@@ -1,0 +1,229 @@
+2025-09-10 14:19:56,016 -  DEBUG -  Start of program
+2025-09-10 14:19:56,017 -  DEBUG -  There is no file as automate_boring_stuff_100.zip
+2025-09-10 14:22:41,081 -  DEBUG -  Start of program
+2025-09-10 14:22:41,081 -  DEBUG -  There is no file as automate_boring_stuff_100.zip
+2025-09-10 14:22:41,081 -  DEBUG -  Creatingautomate_boring_stuff_100.zip
+2025-09-10 14:22:41,081 -  DEBUG -  Zip file created as automate_boring_stuff_100.zip
+2025-09-10 14:22:41,081 -  DEBUG -  Starting backup
+2025-09-10 14:22:41,081 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff
+2025-09-10 14:22:41,082 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/chapter-7
+2025-09-10 14:22:41,082 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/chapter-9
+2025-09-10 14:22:41,082 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/chapter-11
+2025-09-10 14:22:41,082 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/chapter-11/spam
+2025-09-10 14:22:41,083 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/chapter-11/spam2
+2025-09-10 14:22:41,083 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/chapter-8
+2025-09-10 14:22:41,083 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/chapter-10
+2025-09-10 14:22:41,083 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/chapter-10/quizes
+2025-09-10 14:22:41,085 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/chapter-6
+2025-09-10 14:22:41,085 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/ziphere
+2025-09-10 14:22:41,085 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/additional projects
+2025-09-10 14:22:41,085 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/additional projects/MatrixRain.app
+2025-09-10 14:22:41,085 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/additional projects/MatrixRain.app/Contents
+2025-09-10 14:22:41,085 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/additional projects/MatrixRain.app/Contents/_CodeSignature
+2025-09-10 14:22:41,085 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/additional projects/MatrixRain.app/Contents/MacOS
+2025-09-10 14:22:41,086 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/additional projects/MatrixRain.app/Contents/Resources
+2025-09-10 14:22:41,086 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/additional projects/MatrixRain.app/Contents/Resources/de.lproj
+2025-09-10 14:22:41,086 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/additional projects/MatrixRain.app/Contents/Resources/he.lproj
+2025-09-10 14:22:41,086 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/additional projects/MatrixRain.app/Contents/Resources/en_AU.lproj
+2025-09-10 14:22:41,086 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/additional projects/MatrixRain.app/Contents/Resources/ar.lproj
+2025-09-10 14:22:41,086 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/additional projects/MatrixRain.app/Contents/Resources/el.lproj
+2025-09-10 14:22:41,086 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/additional projects/MatrixRain.app/Contents/Resources/ja.lproj
+2025-09-10 14:22:41,086 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/additional projects/MatrixRain.app/Contents/Resources/en.lproj
+2025-09-10 14:22:41,086 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/additional projects/MatrixRain.app/Contents/Resources/uk.lproj
+2025-09-10 14:22:41,086 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/additional projects/MatrixRain.app/Contents/Resources/es_419.lproj
+2025-09-10 14:22:41,086 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/additional projects/MatrixRain.app/Contents/Resources/zh_CN.lproj
+2025-09-10 14:22:41,086 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/additional projects/MatrixRain.app/Contents/Resources/es.lproj
+2025-09-10 14:22:41,086 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/additional projects/MatrixRain.app/Contents/Resources/sl.lproj
+2025-09-10 14:22:41,086 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/additional projects/MatrixRain.app/Contents/Resources/da.lproj
+2025-09-10 14:22:41,086 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/additional projects/MatrixRain.app/Contents/Resources/it.lproj
+2025-09-10 14:22:41,086 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/additional projects/MatrixRain.app/Contents/Resources/sk.lproj
+2025-09-10 14:22:41,086 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/additional projects/MatrixRain.app/Contents/Resources/pt_PT.lproj
+2025-09-10 14:22:41,086 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/additional projects/MatrixRain.app/Contents/Resources/ms.lproj
+2025-09-10 14:22:41,086 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/additional projects/MatrixRain.app/Contents/Resources/sv.lproj
+2025-09-10 14:22:41,086 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/additional projects/MatrixRain.app/Contents/Resources/cs.lproj
+2025-09-10 14:22:41,086 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/additional projects/MatrixRain.app/Contents/Resources/ko.lproj
+2025-09-10 14:22:41,086 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/additional projects/MatrixRain.app/Contents/Resources/no.lproj
+2025-09-10 14:22:41,086 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/additional projects/MatrixRain.app/Contents/Resources/hu.lproj
+2025-09-10 14:22:41,086 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/additional projects/MatrixRain.app/Contents/Resources/zh_HK.lproj
+2025-09-10 14:22:41,086 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/additional projects/MatrixRain.app/Contents/Resources/tr.lproj
+2025-09-10 14:22:41,086 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/additional projects/MatrixRain.app/Contents/Resources/pl.lproj
+2025-09-10 14:22:41,086 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/additional projects/MatrixRain.app/Contents/Resources/zh_TW.lproj
+2025-09-10 14:22:41,086 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/additional projects/MatrixRain.app/Contents/Resources/en_GB.lproj
+2025-09-10 14:22:41,086 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/additional projects/MatrixRain.app/Contents/Resources/vi.lproj
+2025-09-10 14:22:41,086 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/additional projects/MatrixRain.app/Contents/Resources/ru.lproj
+2025-09-10 14:22:41,086 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/additional projects/MatrixRain.app/Contents/Resources/fr_CA.lproj
+2025-09-10 14:22:41,086 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/additional projects/MatrixRain.app/Contents/Resources/fr.lproj
+2025-09-10 14:22:41,086 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/additional projects/MatrixRain.app/Contents/Resources/fi.lproj
+2025-09-10 14:22:41,087 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/additional projects/MatrixRain.app/Contents/Resources/id.lproj
+2025-09-10 14:22:41,087 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/additional projects/MatrixRain.app/Contents/Resources/nl.lproj
+2025-09-10 14:22:41,087 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/additional projects/MatrixRain.app/Contents/Resources/th.lproj
+2025-09-10 14:22:41,087 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/additional projects/MatrixRain.app/Contents/Resources/pt.lproj
+2025-09-10 14:22:41,087 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/additional projects/MatrixRain.app/Contents/Resources/ro.lproj
+2025-09-10 14:22:41,087 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/additional projects/MatrixRain.app/Contents/Resources/hr.lproj
+2025-09-10 14:22:41,087 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/additional projects/MatrixRain.app/Contents/Resources/hi.lproj
+2025-09-10 14:22:41,087 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/additional projects/MatrixRain.app/Contents/Resources/ca.lproj
+2025-09-10 14:22:41,087 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/chapter-4
+2025-09-10 14:22:41,087 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/Users
+2025-09-10 14:22:41,087 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/Users/azizemreayan
+2025-09-10 14:22:41,087 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/Users/azizemreayan/Desktop
+2025-09-10 14:22:41,087 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/Users/azizemreayan/Desktop/automate_boring_stuff
+2025-09-10 14:22:41,087 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/Users/azizemreayan/Desktop/automate_boring_stuff/ziphere
+2025-09-10 14:22:41,087 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/Users/azizemreayan/Desktop/automate_boring_stuff/first_manual
+2025-09-10 14:22:41,087 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/Users/azizemreayan/Desktop/automate_boring_stuff/first_manual/first_file
+2025-09-10 14:22:41,087 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/chapter-5
+2025-09-10 14:22:41,087 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git
+2025-09-10 14:22:41,088 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects
+2025-09-10 14:22:41,088 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/61
+2025-09-10 14:22:41,088 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/0d
+2025-09-10 14:22:41,088 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/95
+2025-09-10 14:22:41,088 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/66
+2025-09-10 14:22:41,088 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/57
+2025-09-10 14:22:41,088 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/04
+2025-09-10 14:22:41,088 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/6a
+2025-09-10 14:22:41,088 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/32
+2025-09-10 14:22:41,088 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/35
+2025-09-10 14:22:41,088 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/67
+2025-09-10 14:22:41,089 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/93
+2025-09-10 14:22:41,089 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/5a
+2025-09-10 14:22:41,089 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/5f
+2025-09-10 14:22:41,089 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/33
+2025-09-10 14:22:41,089 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/05
+2025-09-10 14:22:41,089 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/9d
+2025-09-10 14:22:41,089 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/9c
+2025-09-10 14:22:41,089 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/a4
+2025-09-10 14:22:41,089 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/a3
+2025-09-10 14:22:41,089 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/d9
+2025-09-10 14:22:41,089 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/ac
+2025-09-10 14:22:41,089 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/ad
+2025-09-10 14:22:41,089 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/d7
+2025-09-10 14:22:41,089 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/be
+2025-09-10 14:22:41,089 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/b3
+2025-09-10 14:22:41,089 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/df
+2025-09-10 14:22:41,090 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/bd
+2025-09-10 14:22:41,090 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/d1
+2025-09-10 14:22:41,090 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/d6
+2025-09-10 14:22:41,090 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/bc
+2025-09-10 14:22:41,090 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/ae
+2025-09-10 14:22:41,090 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/e5
+2025-09-10 14:22:41,090 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/f3
+2025-09-10 14:22:41,090 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/eb
+2025-09-10 14:22:41,090 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/c0
+2025-09-10 14:22:41,090 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/c9
+2025-09-10 14:22:41,090 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/fc
+2025-09-10 14:22:41,090 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/f5
+2025-09-10 14:22:41,090 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/e3
+2025-09-10 14:22:41,090 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/fe
+2025-09-10 14:22:41,090 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/c8
+2025-09-10 14:22:41,090 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/c1
+2025-09-10 14:22:41,091 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/c6
+2025-09-10 14:22:41,091 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/ec
+2025-09-10 14:22:41,091 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/20
+2025-09-10 14:22:41,091 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/18
+2025-09-10 14:22:41,091 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/4b
+2025-09-10 14:22:41,091 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/pack
+2025-09-10 14:22:41,091 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/7d
+2025-09-10 14:22:41,091 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/7c
+2025-09-10 14:22:41,091 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/16
+2025-09-10 14:22:41,091 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/89
+2025-09-10 14:22:41,091 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/45
+2025-09-10 14:22:41,092 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/1f
+2025-09-10 14:22:41,092 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/73
+2025-09-10 14:22:41,092 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/87
+2025-09-10 14:22:41,092 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/74
+2025-09-10 14:22:41,092 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/1a
+2025-09-10 14:22:41,092 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/28
+2025-09-10 14:22:41,092 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/17
+2025-09-10 14:22:41,092 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/4c
+2025-09-10 14:22:41,092 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/4d
+2025-09-10 14:22:41,092 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/75
+2025-09-10 14:22:41,092 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/86
+2025-09-10 14:22:41,092 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/2a
+2025-09-10 14:22:41,092 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/2f
+2025-09-10 14:22:41,092 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/43
+2025-09-10 14:22:41,092 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/9f
+2025-09-10 14:22:41,092 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/6b
+2025-09-10 14:22:41,093 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/07
+2025-09-10 14:22:41,093 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/6e
+2025-09-10 14:22:41,093 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/36
+2025-09-10 14:22:41,093 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/5c
+2025-09-10 14:22:41,093 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/09
+2025-09-10 14:22:41,093 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/5d
+2025-09-10 14:22:41,093 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/31
+2025-09-10 14:22:41,093 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/info
+2025-09-10 14:22:41,093 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/91
+2025-09-10 14:22:41,094 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/98
+2025-09-10 14:22:41,094 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/53
+2025-09-10 14:22:41,094 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/3f
+2025-09-10 14:22:41,094 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/5e
+2025-09-10 14:22:41,094 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/5b
+2025-09-10 14:22:41,094 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/37
+2025-09-10 14:22:41,094 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/6d
+2025-09-10 14:22:41,094 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/01
+2025-09-10 14:22:41,094 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/55
+2025-09-10 14:22:41,094 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/97
+2025-09-10 14:22:41,094 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/0a
+2025-09-10 14:22:41,094 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/64
+2025-09-10 14:22:41,094 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/bf
+2025-09-10 14:22:41,095 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/d3
+2025-09-10 14:22:41,095 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/d4
+2025-09-10 14:22:41,095 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/b8
+2025-09-10 14:22:41,095 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/b1
+2025-09-10 14:22:41,095 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/dd
+2025-09-10 14:22:41,095 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/dc
+2025-09-10 14:22:41,095 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/b6
+2025-09-10 14:22:41,095 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/a9
+2025-09-10 14:22:41,095 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/d2
+2025-09-10 14:22:41,095 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/aa
+2025-09-10 14:22:41,095 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/af
+2025-09-10 14:22:41,095 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/b7
+2025-09-10 14:22:41,095 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/de
+2025-09-10 14:22:41,095 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/a6
+2025-09-10 14:22:41,096 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/b9
+2025-09-10 14:22:41,096 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/ef
+2025-09-10 14:22:41,096 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/c3
+2025-09-10 14:22:41,096 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/c4
+2025-09-10 14:22:41,096 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/e1
+2025-09-10 14:22:41,096 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/cd
+2025-09-10 14:22:41,096 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/cc
+2025-09-10 14:22:41,096 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/f9
+2025-09-10 14:22:41,096 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/e8
+2025-09-10 14:22:41,096 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/fa
+2025-09-10 14:22:41,096 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/c2
+2025-09-10 14:22:41,096 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/f6
+2025-09-10 14:22:41,096 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/cb
+2025-09-10 14:22:41,096 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/ce
+2025-09-10 14:22:41,096 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/e0
+2025-09-10 14:22:41,096 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/46
+2025-09-10 14:22:41,097 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/2c
+2025-09-10 14:22:41,097 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/79
+2025-09-10 14:22:41,097 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/2d
+2025-09-10 14:22:41,097 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/83
+2025-09-10 14:22:41,097 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/84
+2025-09-10 14:22:41,097 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/23
+2025-09-10 14:22:41,097 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/4f
+2025-09-10 14:22:41,097 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/8d
+2025-09-10 14:22:41,097 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/85
+2025-09-10 14:22:41,097 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/76
+2025-09-10 14:22:41,097 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/1c
+2025-09-10 14:22:41,097 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/82
+2025-09-10 14:22:41,097 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/40
+2025-09-10 14:22:41,097 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/78
+2025-09-10 14:22:41,097 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/8b
+2025-09-10 14:22:41,097 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/7f
+2025-09-10 14:22:41,097 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/14
+2025-09-10 14:22:41,097 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/8e
+2025-09-10 14:22:41,098 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/objects/22
+2025-09-10 14:22:41,098 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/info
+2025-09-10 14:22:41,098 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/logs
+2025-09-10 14:22:41,098 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/logs/refs
+2025-09-10 14:22:41,098 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/logs/refs/heads
+2025-09-10 14:22:41,098 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/logs/refs/remotes
+2025-09-10 14:22:41,098 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/logs/refs/remotes/origin
+2025-09-10 14:22:41,098 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/hooks
+2025-09-10 14:22:41,098 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/refs
+2025-09-10 14:22:41,098 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/refs/heads
+2025-09-10 14:22:41,098 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/refs/tags
+2025-09-10 14:22:41,098 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/refs/remotes
+2025-09-10 14:22:41,098 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/refs/remotes/origin
+2025-09-10 14:22:41,098 -  DEBUG -  Adding files from /Users/azizemreayan/Desktop/automate_boring_stuff/.git/branches
+2025-09-10 14:22:41,099 -  DEBUG -  Backup created succesfully automate_boring_stuff_100.zip
