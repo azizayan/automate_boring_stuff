@@ -1,0 +1,8 @@
+ 1.  What is the difference between shutil.copy() and shutil.copytree()?
+    copy copies 1 file copytrre copies all folder
+  2.  What function is used to rename files?
+    os.rename() and also shutil.move()
+  3.  What is the difference between the delete functions in the send2trash and shutil modules?
+    delete directly deletes from system so you cant rescue it, send2trash only removes the file from frontend hpwever file itself stays in trash
+  4.  ZipFile objects have a close() method just like File objects’ close() method. What ZipFile method is equivalent to File objects’ open() method?
+"   zipfile.ZipFile
